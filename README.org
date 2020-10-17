@@ -1,0 +1,16 @@
+* =Common-Utils=  - Handy CL definitions for everyday use.
+
+Re-implementation of =mydefs=, still very experimental,
+but with better structure for use outside of my box.
+
+** Author
+
++ Vladimir Dikan (vdikan@vivaldi.net)
+
+** Copyright
+
+Copyright (c) 2020 Vladimir Dikan (vdikan@vivaldi.net)
+
+** License
+
+Licensed under the MIT License.
