@@ -1,5 +1,6 @@
 (defpackage common-utils/transforms
   (:use :cl :series :alexandria)
+  (:nicknames :clu/t)
   (:export #:transform-plist))
 (in-package :common-utils/transforms)
 

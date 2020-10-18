@@ -1,5 +1,6 @@
 (defpackage common-utils/parsers
   (:use :cl)
+  (:nicknames :clu/p)
   (:import-from :parse-number :parse-real-number)
   (:export :parse-double))
 (in-package :common-utils/parsers)
